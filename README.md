@@ -1,7 +1,6 @@
 # Security Audit: PuppyRaffle Protocol 🦎
 
 <div align="center">
-  <img src="logo.png" alt="0xBreak Logo" width="250">
   <br>
   <strong>Lead Auditor:</strong> 0xBreak
   <br>
